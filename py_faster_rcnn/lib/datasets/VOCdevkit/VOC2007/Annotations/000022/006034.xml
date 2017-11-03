@@ -1,0 +1,26 @@
+<annotation>
+	<folder>000022</folder>
+	<filename>006034</filename>
+	<path>Z:\mswap\000022\006034.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trafficsign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1066</xmin>
+			<ymin>472</ymin>
+			<xmax>1110</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+</annotation>

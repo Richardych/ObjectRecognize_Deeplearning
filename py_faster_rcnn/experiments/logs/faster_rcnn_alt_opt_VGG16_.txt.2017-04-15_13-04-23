@@ -1,0 +1,3 @@
++ echo Logging output to experiments/logs/faster_rcnn_alt_opt_VGG16_.txt.2017-04-15_13-04-23
+Logging output to experiments/logs/faster_rcnn_alt_opt_VGG16_.txt.2017-04-15_13-04-23
++ ./tools/train_faster_rcnn_alt_opt.py --net_name VGG16 --weights data/imagenet_models/VGG16.v2.caffemodel --imdb voc_2007_trainval --cfg experiments/cfgs/faster_rcnn_alt_opt.yml

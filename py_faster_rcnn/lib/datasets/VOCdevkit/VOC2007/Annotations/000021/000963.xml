@@ -1,0 +1,26 @@
+<annotation>
+	<folder>000021</folder>
+	<filename>000963</filename>
+	<path>/home/superhui/caffe/Faster_rcnn/trafficsing_model/py-faster-rcnn/lib/datasets/VOCdevkit/VOC2007/JPEGImages/000021/000963.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trafficsign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>759</xmin>
+			<ymin>321</ymin>
+			<xmax>850</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>
